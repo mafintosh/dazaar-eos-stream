@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/bitfinexcom/dazaar-eos-stream#readme",
   "dependencies": {
+    "encoding": "^0.1.12",
     "eosjs": "^20.0.0",
     "from2": "^2.3.0",
     "node-fetch": "^2.6.0"
